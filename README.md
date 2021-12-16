@@ -32,5 +32,4 @@
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/konstantinos-rizos/)](https://www.linkedin.com/in/konstantinos-rizos)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:konriz.sd@gmail.com)](mailto:konriz.sd@gmail.com)
 
-  <p align="right" > <img src="https://komarev.com/ghpvc/?username=rizoskonstantinos&label=Visitors&color=0e75b6&style=flat-square" alt="rizoskonstantinos" /> </p>
 </div>
