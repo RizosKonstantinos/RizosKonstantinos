@@ -6,13 +6,13 @@
   <p> 
     <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=F7DF1E" alt="Java logo" title="Java" height="25"/>
     <img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=239120" alt="C# logo" title="C#" height="25" />
-    <img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=violet&color=383838" alt=".Net logo" title=".NET" height="25" />
+    <img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=violet" alt=".Net logo" title=".NET" height="25" />
     <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
     <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
     <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /> 
   </p>
   <p>   
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-282C34?logo=microsoft%20sql%20server&logoColor=CC2927&color=383838" alt="Microsoft SQL Server logo" title="Mucrosoft SQL Server" height="25" />
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-282C34?logo=microsoft%20sql%20server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Mucrosoft SQL Server" height="25" />
     <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=lightgreen" alt="MySQL logo" title="MySQL" height="25" />
     <img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=lightblue" alt="MySQL logo" title="MySQL" height="25" />
    </p>  
